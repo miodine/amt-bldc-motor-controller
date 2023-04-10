@@ -1,6 +1,6 @@
-# SPEL electronic speed controller for BLDC motors 
+# AMT electronic speed controller for BLDC motors 
 
-Open-source hardware and software for BLDC motor electronic speed controller.
+Amateur electronics project - open-source hardware for BLDC motor electronic speed controller. ODrive compatible.
 
 ### About
 Yet another open-source BLDC motor controller, developed primarily as a learning project. 
